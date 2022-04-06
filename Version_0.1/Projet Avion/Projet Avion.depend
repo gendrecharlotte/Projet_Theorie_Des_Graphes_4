@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1649106339 source:c:\users\aline\onedrive\documents\projet piscine\projet avion\main.cpp
+	"Menu.h"
+
+1649105052 source:c:\users\aline\onedrive\documents\projet piscine\projet avion\aeroport.cpp
+	"Aeroport.h"
+
+1649105427 c:\users\aline\onedrive\documents\projet piscine\projet avion\aeroport.h
+	"Avion.h"
+	<iostream>
+	<fstream>
+	<vector>
+
+1649104763 source:c:\users\aline\onedrive\documents\projet piscine\projet avion\allavions.cpp
+	"AllAvions.h"
+
+1649105427 c:\users\aline\onedrive\documents\projet piscine\projet avion\allavions.h
+	"Avion.h"
+	<iostream>
+	<fstream>
+	<vector>
+
+1649104763 c:\users\aline\onedrive\documents\projet piscine\projet avion\avion.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1649104763 source:c:\users\aline\onedrive\documents\projet piscine\projet avion\avion.cpp
+	"Avion.h"
+
+1649106390 source:c:\users\aline\onedrive\documents\projet piscine\projet avion\menu.cpp
+	"Menu.h"
+
+1649106332 c:\users\aline\onedrive\documents\projet piscine\projet avion\menu.h
+	<iostream>
+	<unistd.h>
+	"AllAeroports.h"
+
+1649105108 source:c:\users\aline\onedrive\documents\projet piscine\projet avion\allaeroports.cpp
+	"AllAeroports.h"
+
+1649106111 c:\users\aline\onedrive\documents\projet piscine\projet avion\allaeroports.h
+	"Aeroport.h"
+	"AllAvions.h"
+	<iostream>
+	<fstream>
+	<vector>
+
