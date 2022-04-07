@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projet Avion" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projet Avion" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projet Avion" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add library="alleg44.dll" />
+		</Linker>
+		<Unit filename="Aeroport.cpp" />
+		<Unit filename="Aeroport.h" />
+		<Unit filename="AllAeroports.cpp" />
+		<Unit filename="AllAeroports.h" />
+		<Unit filename="AllAvions.cpp" />
+		<Unit filename="AllAvions.h" />
+		<Unit filename="AllVoyageurs.cpp" />
+		<Unit filename="AllVoyageurs.h" />
+		<Unit filename="Avion.cpp" />
+		<Unit filename="Avion.h" />
+		<Unit filename="Coordonnees.cpp" />
+		<Unit filename="Coordonnees.h" />
+		<Unit filename="Interface.cpp" />
+		<Unit filename="Interface.h" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
+		<Unit filename="Voyageur.cpp" />
+		<Unit filename="Voyageur.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
