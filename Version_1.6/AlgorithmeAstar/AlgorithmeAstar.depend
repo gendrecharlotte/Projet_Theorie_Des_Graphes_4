@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1649446884 source:c:\users\gendr\onedrive\documents\theorie_des_graphes\projet_piscine\algorithmeastar\main.cpp
+	<iostream>
+	<vector>
+	<functional>
+	<set>
+	"header.h"
+
+1649446990 source:c:\users\gendr\onedrive\documents\theorie_des_graphes\projet_piscine\algorithmeastar\sp.cpp
+	<algorithm>
+	<math.h>
+	"header.h"
+
+1649446898 c:\users\gendr\onedrive\documents\theorie_des_graphes\projet_piscine\algorithmeastar\header.h
+	<vector>
+	<functional>
+	<set>
+
